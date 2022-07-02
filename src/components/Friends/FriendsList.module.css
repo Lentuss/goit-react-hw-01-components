@@ -1,12 +1,12 @@
 .list{
     width: 180px;
 
-    background-color: rgb(164, 167, 207);
+    background-color: rgb(151, 198, 151);
     border-radius: 10px;
     box-shadow: 5px 5px 10px #000;
     
     list-style: none;
-    margin: 0;
+    margin: 0 0 20px;
     padding: 15px;
 }
 .unit{
