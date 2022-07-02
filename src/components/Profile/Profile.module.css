@@ -7,6 +7,8 @@
 
     width: 180px;
     height: auto;
+
+    margin-bottom: 20px;
     padding: 15px;
     font-size: 16px;
 }
@@ -27,7 +29,7 @@
 }
 
 .userLocation{
-    composes: usertag;
+    color: rgb(32, 32, 32);
     font-style: italic;
 }
 
